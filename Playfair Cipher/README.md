@@ -5,8 +5,8 @@ The Playfair cipher is a classical symmetric encryption technique that encrypts 
 Plaintext: `balloon` <br>
 Key: `monarchy` <br>
 Matrix Size: `5 × 5`
-
 <br>
+
 **Ciphertext:**
 balloon → balxloon
 
